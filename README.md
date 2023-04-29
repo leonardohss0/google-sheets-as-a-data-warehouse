@@ -8,7 +8,7 @@ This project provides a step-by-step guide to extract data from Facebook Ads API
 * pip package manager
 
 ### Installation
-1. Clone the repository: git clone https://github.com/<your-username>/<your-repository>.git
+1. Clone the repository: `git clone https://github.com/leonardohss0/google-sheets-as-a-data-warehouse.git`
 2. Install the required Python libraries: `pip install -r requirements.txt`
 3. Follow the steps in MEDIUM to set up your Google Cloud and Facebook Ads API credentials.
 
