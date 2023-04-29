@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import json
 
-def getCampaign(account_id, access_token, since, until):
+def getCampaignData(account_id, access_token, since, until):
         campaigns = pd.DataFrame()
        
         fields = "campaign_name,campaign_id,adset_name,adset_id,ad_name,ad_id,clicks,reach,impressions,objective,spend,actions, action_values"
